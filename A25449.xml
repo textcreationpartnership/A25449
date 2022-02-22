@@ -1,0 +1,232 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Animadversions upon a sheet of Mr. Baxters entituled An appeal to the light, printed 1674 for the farther caution of his credulous readers.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25449</idno>
+            <idno type="STC">Wing A3202</idno>
+            <idno type="STC">ESTC R34208</idno>
+            <idno type="EEBO-CITATION">13978764</idno>
+            <idno type="OCLC">ocm 13978764</idno>
+            <idno type="VID">102087</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25449)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 102087)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1560:54)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Animadversions upon a sheet of Mr. Baxters entituled An appeal to the light, printed 1674 for the farther caution of his credulous readers.</title>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by H. Hall,</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Baxter, Richard, 1615-1691. --  Appeal to the light.</term>
+               <term>Sin, Original.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:102087:1"/>
+            <pb facs="tcp:102087:1" rendition="simple:additions"/>
+            <p>ANIMADVERSIONS upon a ſheet of M<hi rend="sup">r</hi> 
+               <hi>BAXTERS</hi> ENTITULED An APPEAL to the LIGHT, Printed 1674.</p>
+            <p>For the farther Caution of his Credulous Readers.</p>
+            <q>
+               <bibl>
+                  <hi>Mat. 10.26.</hi>
+               </bibl>
+               <p>There is nothing cover'd that ſhall not be reveal'd.</p>
+            </q>
+            <p>
+               <hi>OXFORD,</hi> Printed by H. HALL, 1675.</p>
+         </div>
+      </front>
+      <body>
+         <div type="commentary">
+            <pb facs="tcp:102087:2"/>
+            <pb facs="tcp:102087:2"/>
+            <p>I Do not remember I ever ſaw a Diſcourſe more at vari<g ref="char:EOLhyphen"/>ance with its <hi>Inſcription,</hi> and ſo much its Confutation, as This. Let any indifferent Reader Judge what <hi>Light</hi> there is in it: not one Text of Scripture (the beſt and ſafeſt Light) little elſe but darke <hi>general</hi> and <hi>roving</hi> Refle<g ref="char:EOLhyphen"/>xions throughout, as we ſhall preſently ſee.</p>
+            <p>It ſeems He was accus'd for ſome Sermon He had Preach'd, and there we have his <hi>Lightſome</hi> vindication. He tells us firſt that after He had open'd (no leſs then) 50. <hi>bleſſings</hi> or Pri<g ref="char:EOLhyphen"/>viledges of Believers, He nam'd 20 <hi>counterfeit Priviledges aſſerted by the Libertines, called Antinomians, Corrupters of the Doctrine of Jeſus.</hi> Now may we know who theſe <hi>Liber<g ref="char:EOLhyphen"/>tines, Antinomians,</hi> &amp;c. be? For, if He mean only ſuch as are uſually diſtinguiſh'd by thoſe infamous Names, where have They of late apper'd? with what ſtrength and <hi>num<g ref="char:EOLhyphen"/>bers</hi> to require ſo brisk an alarme, as if they were ſtill at our Gates, and ready to climbe our <hi>walls?</hi> To what pur<g ref="char:EOLhyphen"/>poſe is He in ſuch haſt, to abaſe his Pen by ſetting it to ſcrach in thoſe Dunghills, where ſuch names have layn bu<g ref="char:EOLhyphen"/>ried and putrifying lo long? Sure there muſt be ſomthing in it of more <hi>Myſtery</hi> then This. Let us try if we can find it out.</p>
+            <p>Firſt, it were worth our knowing, what <hi>Monſters</hi> they are who <hi>ſay</hi> (not who meane or ſpake by <hi>conſequence,</hi> but <hi>ſay</hi> downright) <hi>that Chriſt was not only an Ignorant, Infidel,</hi>
+               <note place="margin">
+                  <hi>Pag.</hi> 1.</note> 
+               <hi>A<g ref="char:EOLhyphen"/>theiſt, a Blaſphemer, a murderer, an Adulterer, a Lyar</hi> (I tremble to repeat the words) <hi>but the greatest Sinner in the world, as having the Sins of all the world or Elect made in THEMSELVES His VERY SINS:</hi> and this with great moderation He calls <hi>ill Language</hi> and no more. But 'twere fit we ſhould know whoſe Language it is (<hi>Antinomi<g ref="char:EOLhyphen"/>ans</hi> or others) that we may have them more in Execration, otherwiſe let any Body Judge at whoſe doore all this Bla<g ref="char:EOLhyphen"/>ſphemy
+<pb facs="tcp:102087:3"/>muſt be lay'd, the very <hi>repetition</hi> of it in <hi>ſuch odious particularities</hi> without their <hi>Author</hi> ſounding little better then a Libel againſt that Holy ONE The ſon of God. we know very well who (beſides <hi>Libertines, Antinomians,</hi> &amp;c.) affirm truly that all the Sins of Believers are Chriſts by <hi>Im<g ref="char:EOLhyphen"/>putation,</hi> and that God caus'd <hi>to meet upon Him the Iniquities of us All,</hi> but not in the vile ſenſe Mr B ſeems willing to have his Reader believe; we know none ſuch, and if we did, ſhould call it ſomwhat more then <hi>ill Language.</hi> Nor will it help him a jot to allege that ſuch Blaſphemies flow from His <hi>Libertines Principles,</hi> unleſs ſome Body would <hi>own</hi> Them: He is not to take up all the filth He can find in the chanel, for any <hi>Conſe<g ref="char:EOLhyphen"/>quence</hi> of His making, to be thrown againſt our bleſſed Lord; this is not <hi>Reverence.</hi> And 'tis as farr from LIGHT; for which of his Ordinary Credulous Readers will underſtand Him otherwiſe, but that indeed there is a Generation in the world who tremble not to <hi>utter</hi> ſuch <hi>names</hi> and characters of <hi>Chriſt,</hi> as He out of his Aboundance has marſhall'd together for Them? and that His <hi>Libertine</hi> and <hi>Antinomian are</hi> but his <hi>ſtalking-Horſes,</hi> not his <hi>Game,</hi> will be more and more diſcovered; and 'tis but fit; 'tis high time it ſhould.</p>
+            <p>Next, though He allowes Chriſt to be a <hi>Mediatour,</hi> yet He denyes Him to be a FULL REPRESENTER of our Perſons:<note place="margin">Ibid.</note> and why ſo? Hear Himſelf ſpeak (and they are no ordinary words) <hi>that</hi> is, ſaith He, His <hi>Perſon and the Perſon of each ſinner were not the ſame indeed</hi> But firſt they were the <hi>ſame indeed,</hi>
+               <note place="margin">Ibid.</note> 
+               <hi>Legally</hi> and <hi>ſenſu forenſi,</hi> though not <hi>naturally,</hi> But his plain meaning is (if his words have any ſenſe at all) Chriſt and a Believer are not one and the ſame <hi>Individual natural</hi> Per<g ref="char:EOLhyphen"/>ſon, therfore He cannot be a FULL Repreſenter. But I would fain know how He ſhould be a <hi>Repreſenter</hi> at all, if He were not <hi>another</hi> Perſon. Muſt He repreſent Himſelf be <hi>Ser<g ref="char:EOLhyphen"/>vant, Agent, Delegate</hi> to Himſelf, (as He varies the Expreſſion?) what ever <hi>Divinity</hi> this be, 'tis certainly new <hi>Law,</hi> and new <hi>Common ſenſe</hi> too. For to <hi>Repreſent</hi> has ever bin taken in the Judgment of <hi>Mankind</hi> as well as of the Law, <hi>Locum alterius.
+<pb facs="tcp:102087:3"/>&amp; numerum obtinere,</hi> to ſtand in anothers <hi>ſtead,</hi> and not to be that other <hi>Perſon.</hi> But this is the effect of <hi>Haſt,</hi> and <hi>wandring too farr from Home.</hi> Mean while He very well knowes (though his poor Ignorant Reader muſt not (that Chriſts <hi>full Repreſen<g ref="char:EOLhyphen"/>tation</hi> has other And much Greater Aſſertors then <hi>Libertines and Antinomians,</hi> who are no <hi>Corrupters of the Gospel of Jeſus,</hi> but have done it farr better Service then Himſelf, and no diſ<g ref="char:EOLhyphen"/>paragement to Him.</p>
+            <p>Again, when He would perſwade us, p. 4. that He has <hi>only opend a waighty part of Chriſts Gospell, which Babes ſhould under<g ref="char:EOLhyphen"/>stand, and has only ſought to keep us from ſuch Corruptions as look too like another Goſpel, and if prevalently practis'd would be Mens utter Ruin,</hi> 'tis plain I think to any conſidering Man, that His eye is chiefly upon his <hi>Juſtification by works</hi> and the Points <hi>depending.</hi> This is one at leaſt of his <hi>waighty Parts of Chriſts Goſpel,</hi> to deny which in the <hi>prevalent practiſe would be mens utter Ruin.</hi> And are none but <hi>Antinomians</hi> and <hi>Li<g ref="char:EOLhyphen"/>bertines</hi> concern'd in This? what an odd thing is it for a Man when He <hi>winks</hi> to fancy no Body ſees Him! But to be ſhort, and to let all the world ſee I do Him no injury, may we be<g ref="char:EOLhyphen"/>lieve Himſelf? then Hear Him in his Aphoriſms (till his <hi>Retra<g ref="char:EOLhyphen"/>ctations</hi> appear) <hi>Theſ.</hi> 20. p. 111. <hi>To affirm,</hi> ſaith He, <hi>that our Evangelical or new Covenant Righteouſneſs is in Chriſt and not in our ſelves, or performed by Chriſt, and not by our ſelves is ſuch a MONSTRO<g ref="char:V">Ʋ</g>S peece of ANTINOMIAN Doctrine,</hi> &amp;. But that All our <hi>Juſtifying new Covenant</hi> Righ<g ref="char:EOLhyphen"/>teouſneſs <hi>is extra Nos,</hi> in <hi>Chriſt</hi> not in our ſelves, perform'd <hi>by Chriſt,</hi> not by our ſelves, is the general Affirmation of the <hi>Reformed</hi> World, its Churches, and Doctors: Therfore Theſe are amongſt Mr <hi>Baxters Libertines,</hi> and <hi>Monſtrous Antinomi<g ref="char:EOLhyphen"/>ans, Corrupting the Goſpel of Jeſus.</hi> The like in a private Letter to his Friend (Mr <hi>Ant. Burgeſs</hi> I ſuppoſe) ſome two or three years after. I have not the Book by me, but this He knows to be the ſenſe of his words, that if we grant not his <hi>Princi<g ref="char:EOLhyphen"/>ples</hi> in the Doctrine of Juſtification, it would be no hard mat<g ref="char:EOLhyphen"/>ter to maintain all the dotages of the <hi>Antinomians,</hi> or to that
+<pb facs="tcp:102087:4"/>effect. So now at laſt I think we have brought Him to the LIGHT indeed. His <hi>Libertines, Antinomians,</hi> &amp;c. are whoſoever aſſert againſt Him the Juſtification of a Sinner by <hi>Faith, without works,</hi> ſuch as the Church of <hi>England</hi> with the reſt of the Reformed Churches. Theſe muſt be driven by Him with the Herd of <hi>Libertines</hi> as Beaſts to the Slaughter. Let any ſober man Judge if I wrong Him in the leaſt, nay I durſt almoſt (did not the Thing ſeen too ſhamefull to be <hi>confeſs'd</hi>) appeal unto <hi>Himſelf.</hi> However if I am miſtaken, I ſhall be heartily glad to know it; but then to convince me, He muſt bring ſome better <hi>Light</hi> then ſhines in His <hi>Appeal.</hi> Pag. 3. He has diſcover'd a <hi>new</hi> and <hi>wonderful</hi> kind of Juſti<g ref="char:EOLhyphen"/>fication; <hi>we muſt be Juſtified,</hi> ſaies He, <hi>by our Faith againſt the charge of Infidelity, and by our Repentance againſt the charge of Impaenitency, by our Love, Holineſs and Sincerity againſt the charge if Final unholineſs, rebellion and being Hypocrites.</hi> Is not this a pretty fort of <hi>Juſtification?</hi>
+            </p>
+            <p n="1">1. Unknown to S. <hi>Paul,</hi> who alone of all the Inſpired writers has <hi>ex profeſſo</hi> and ſo <hi>largely</hi> tread of this Doctrine. He tells us of no Juſtification but by <hi>Faith without workes,</hi> and from Mr <hi>Baxter</hi> we have a <hi>Particular-Juſtification</hi> for every parti<g ref="char:EOLhyphen"/>cular <hi>Grace</hi> than can be nam'd (for we muſt not ſuppoſe Him to exclude any, His reaſon being the ſame for all) The Apoſtle therfore by this Rare Divinity, might <hi>have</hi> ſaid Being Juſti<g ref="char:EOLhyphen"/>fied by <hi>Patience, Chaſtity, Temperance, Frugality,</hi> &amp;c. as well as being Juſtified by FAITH; nay, He ought to have ſaid ſo, if He would be Faithful to his Truſt, and to the Souls of men.</p>
+            <p n="2">2. This Juſtification gives no more to Faith then to any o<g ref="char:EOLhyphen"/>ther Conſequent Grace; point blank contrary to S. <hi>Paul,</hi> and to the Doctrine of the <hi>Reformed</hi> Churches, particularly that of the Church of <hi>England,</hi> as I have elſewhere prov'e as plain as words can do it.</p>
+            <p n="3">3. If we are Juſtified by Faith only from <hi>Infidelity,</hi> and from every other Sin <hi>reſpectively</hi> by its <hi>oppoſite Grace</hi> and vertue, how ſhall we underſtand Him who is THE TRUTH when
+<pb facs="tcp:102087:4"/>He tells us ſo often to this effect, <hi>He that</hi> BELIEVETH <hi>ſhall be Sav'd<g ref="char:punc">▪</g>
+               </hi> and what means S. <hi>Paul</hi> to aſſure us that <hi>being Juſtified by Fatih<g ref="char:punc">▪</g>we have peace with God?</hi> For if <hi>Faith</hi> Juſtify us only <hi>againſt the charge of Infidelity,</hi> and every other Grace be requir'd to Juſtify us againſt its oppoſite Sin, then it can<g ref="char:EOLhyphen"/>not be true<g ref="char:punc">▪</g> at leaſt univerſally as the words are intended) that He <hi>who believeth ſhall be ſav'd, and have peace with God,</hi> no more then that a Felon ſhall be acquitted at the Aſſizes and freed from fear, who is found <hi>not guilty</hi> of one Indite<g ref="char:EOLhyphen"/>ment, and has twenty more to plead to. We are ſent to no garment to cover our Iniquities from the Eye of Divine Ju<g ref="char:EOLhyphen"/>ſtice but the Robe of <hi>Chriſts Righteouſneſs put on</hi> by Faith alone, a Robe without <hi>ſeam or patch;</hi> no <hi>Linſey-wolſey ſtuff</hi> ad<g ref="char:EOLhyphen"/>mitted there.</p>
+            <p>But the Defence He makes for Himſelf againſt a City-<hi>Report</hi> is very conſiderable, and as cleer as <hi>midnight.</hi>
+               <note place="margin">
+                  <hi>Pag.</hi> 5.</note> He tells us how it was reported; that <hi>He ſhould ſaey the Difference between us and Papiſts was but in words.</hi> I hope He would not do ſo; but what ſaies He to it, for now it concerns Him to ſpeake? Why truly as to the Buſineſs againſt his <hi>Libertines, Antinomi<g ref="char:EOLhyphen"/>ans,</hi> S. <hi>Paul,</hi> and the <hi>Reformed</hi> Churches in the point of <hi>Justi<g ref="char:EOLhyphen"/>fication,</hi> wherein His <hi>Appeal</hi> ſeems chiefly if not <hi>ſolely</hi> concern'd, I can find nothing but a general <hi>Complement</hi> to his Reporters, an Information how dear He has <hi>bought</hi> his know<g ref="char:EOLhyphen"/>ledge, a <hi>Prophecy</hi> that He may ſhortly <hi>Dy,</hi> with an Informa<g ref="char:EOLhyphen"/>tion of <hi>Preferments offer'd.</hi> This in effect is All to the De<g ref="char:EOLhyphen"/>fence He makes to a Charge of that <hi>moment.</hi> Let every one be ſatisfied by his own eyes.</p>
+            <p>Only He complains that ſome <hi>Diſtinctions</hi> and <hi>Inſtances</hi> of His were left out in the Report. Now obſerve how He Courts the LIGHT, to which He appeals. Let any man read the beginning of his 4<hi rend="sup">th</hi> Section, where indeed He diſtinguiſhes between Popiſh Points, ſome of meer <hi>Intereſt,</hi> and ſome <hi>ari<g ref="char:EOLhyphen"/>ſing from the Difficulty of the matter</hi> and the <hi>weakneſs</hi> of hu<g ref="char:EOLhyphen"/>man underſtanding: of the former He gives us alſo ſome In<g ref="char:EOLhyphen"/>ſtances, as the <hi>Papal power, Indulgences, Purgatory,</hi> &amp;c. Of the
+<pb facs="tcp:102087:5"/>latter not one that is either <hi>uſually</hi> or properly call'd <hi>Popiſh,</hi> but ſuch as are canvaſs'd by the <hi>Remonſtrants</hi> and their Antagoniſts, as well as the Jeſuits; and ſo <hi>ſmooths</hi> off the buſineſs, and All is well. But not a word all this while of his <hi>Libertine-</hi> Points, Ju<g ref="char:EOLhyphen"/>ſtification by Faith, &amp;c. Not the leaſt direction where we ſhall beſtow theſe, whether amongſt the <hi>Intereſt</hi> or the Difficulty-matters. No, no; <hi>There is a Time for All Things.</hi> This is Mr <hi>Baxters</hi> APPEAL to the LIGHT. And whereas He concludes with this <hi>bold</hi> Perſwaſion <hi>that few Miniſters of Chriſt in England will prove ſo weak as to propagate what He condemns, and call's Errours,</hi> 'tis an immodeſt <hi>Bravado,</hi> highly injurious to the Vertues and Learning of the MINISTRY OF THE CHURCH OF ENGLAND, as if They were generally in ſuch a Readineſs to forſake the Banner of their own Church, with All Her Renowned Captains, to fight under the Colours of a ſingle Mr <hi>BAXTER.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="commentary">
+            <pb facs="tcp:102087:5"/>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>By ſome unfortunate miſtake in my Abſence, my Anſwer to <hi>Mr Baxters</hi> Quotations for his new Original Sin, have wholy eſcap'd the Preſs. It ſhould have enter'd pag. <hi>20.</hi> after lin. <hi>14.</hi> which therefore I am neceſſitated to peece here at the end, and referr all to your favourable Conſtruction.</p>
+            <p>From pag. 12, to. 21. I find you very buſie in ſmoothing your way (where none can eaſily ſtumble) to prove ſome Intereſt of children in their wicked Progenitors Sins: a thing never queſtion'd by me, nor by any man elſe (I think) who owns the Authoritie of the <hi>ſecond Commandment;</hi> ſo that I am not the man you combate (though your Credulous Readers muſt upon your <hi>word</hi> beleive the contrarie) Alls but the <hi>ſhadow</hi> of your Fancie, and the <hi>Itch</hi> of your Pen to fall up<g ref="char:EOLhyphen"/>on me. I charge you with a new <hi>Secondarie Original</hi> Sin, whoſe pedigree is not from Adam: I engage not a ſyllable farther.</p>
+            <p>And now let us advance to your Proofs, and obſerve the iſsue. <hi>Tertullian</hi> leads your Van; but neither He, nor any of the reſt, ſtrike one ſtroke in your Cauſe.<note place="margin">
+                  <hi>Pag.</hi> 22.</note> I cannot in Reaſon exſpect that He ſhould ſo much as uſe the word <hi>O<g ref="char:EOLhyphen"/>riginal,</hi> when applyed to Sin: for (If I miſtake not) it came not in on that account till about <hi>Auſtin's</hi> time, in his famous warrs with the <hi>Pelagian.</hi> However, if we can find the <hi>Thing,</hi> this <hi>Secundary</hi> Original Sin, all's well enough, I am for no meer <hi>Logomachies.</hi> All that can be forc'd from that Quo<g ref="char:EOLhyphen"/>tation, muſt lye in the ſingle clauſe of [<hi>Quanquam ſi Evan<g ref="char:EOLhyphen"/>gelium veritatis accipias,</hi> &amp;c.] which in Engliſh ſounds thus; <hi>All<g ref="char:EOLhyphen"/>though if you own the Truth of the Gospel, you will find to whom appertains the</hi> ſentence of viſiting the Iniquities of the Fa<g ref="char:EOLhyphen"/>thers upon the children, <hi>namely to Them who were to bring this Doom upon themſelves;</hi> His blood be upon us, and upon our children.</p>
+            <p>Now This is very farr from curing any <hi>Admiration</hi> of
+<pb facs="tcp:102087:6"/>mine (as you ſeem to promiſe me) ſave that of giving your ſelfe the Trouble to quote Him ſo little to the purpoſe.<note place="margin">
+                  <hi>Pag.</hi> 21.</note> For He proves nothing in conteſt between Us; no more then This, that God upon that execrable Imprecation moſt juſtly requir'd the Sins of the Bloody Parents at the Hands alſo of their children, who have generally approv'd that wick<g ref="char:EOLhyphen"/>edneſs unto this day. You will have a knotty peece of work to hew out another Original Sin from any ſuch Teſtimonies as theſe.<note place="margin">
+                  <hi>Pag.</hi> 23.</note> Next comes the Martyr <hi>Cyprian,</hi> who diſcourſing the miſchief which children are ſubject to from <hi>ill education,</hi> and eſpecially from the bad <hi>Example</hi> of their <hi>Parents,</hi> ag<g ref="char:EOLhyphen"/>gravates the matter in a <hi>Rhetorical</hi> Proſopopoeia, where He brings in the poor children with this ſad complaint, <hi>we have found our Parents our Murtherers; They have denyed for <g ref="char:V">Ʋ</g>s the Church our Mother, and God our Father,</hi> &amp;c. He ſpeaks there of the <hi>Lapſi,</hi> who out of Fear offer'd unto <hi>Idols,</hi> and by their Example taught their Children to doe the like, and ſo were inſtrumental to their Guilt and calamity. It muſt be ſome <hi>Delian Diver</hi> can fetch out your <hi>new</hi> Original Sin from hence; for the old and <hi>only</hi> one came in at another door then that of <hi>Pelagian Example;</hi> and beſides we ſhould make as many <hi>Original</hi> Sins, yea as many <hi>Fathers,</hi> as we have prevailing Examples in the world, which I know you will not grant.</p>
+            <p>Your whole Quotation out of <hi>Leo</hi> unto the bottom of p. 24. is the ſame <hi>verbatim</hi> with S. <hi>Auſtins,</hi>
+               <note place="margin">
+                  <hi>Pag.</hi> 23, 24.</note> where you quote His <hi>Enchiridion.</hi> But however that happen'd (both living in the ſame Century) tis no barr to Him as another witneſs, if He have any Evidence for You. The greateſt force of that Conſort-Teſtimony lyes I thinke in the cloſe, where it ſpeaks thus, <hi>quia &amp; in illo uno quod in ownes Homines pertranſivit,</hi> &amp;c. that is, <hi>becauſe in that</hi> ONE <hi>Sin which paſſed upon All men,</hi> (<hi>and which was ſo great, that it changed the</hi> nature <hi>of man into a neceſſity of Dying</hi>) <hi>there are many Sins to be found, with other Sins of Parents, which though they</hi> cannot alter Nature, <hi>yet involve and bind the children in the Guilt, unleſs
+<pb facs="tcp:102087:6"/>the Free grace mercy of God relieve them.</hi> Thoſe Holy <hi>Fathers</hi> are there interpreting that paſſage Pſal. 51.4. <hi>Be<g ref="char:EOLhyphen"/>hold I was ſhapen in iniquity, and in ſin did my mother bring me forth.</hi> Which they think fit to render with the Vulgar, <hi>In iniquitatibus, in peccatis,</hi> and thence inferr that David has reſpect unto ſome other Sins wherein <hi>Children</hi> may be involv'd beſides that of the <hi>firſt</hi> and common Father.</p>
+            <p>But beſides that They ſuggeſt an Anſwer to the Inference, when they tell us of <hi>many</hi> Sins in that ONE Original; it ap<g ref="char:EOLhyphen"/>pears they either had not conſulted, or were not skill'd in the Hebrew (which S. <hi>Auſtin</hi> ſomwhere confeſſes of Himſelf, nor was the want of that convenience any way ſcandalous in that Age, though <hi>Jeroms</hi> induſtrie had reſcued Him from it) For in the Original, all runs in the ſingular number <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſo that nothing can be concluded thence, But take what thoſe Pious Fathers ſay <hi>De bene eſſe,</hi> and as we find it, they will do you no ſervice, ſeeing all their Evidence amounts to no more then This generally Confeſſed Truth, that God if He pleaſes may reckon with wicked children for their wicked Parents (as well as their own Perſonal) Sins. This will not riſe up to a <hi>new</hi> Original Sin, which thoſe venerable Doctors ſufficiently diſtinguiſh from the Sins of neerer Pro<g ref="char:EOLhyphen"/>genitors, when of theſe they tell you, <hi>non poſſunt mutare naturam,</hi> i. e. they can worke no change upon <hi>Nature,</hi> as the true and only Original Sin has done to ſuch a ſad degree. And whereas you tax Bellarmines accomodation for a <hi>ſhift</hi> and a <hi>meer violence,</hi> when He interprets them to mean of the <hi>pu<g ref="char:EOLhyphen"/>niſhment,</hi> and not of the <hi>fault,</hi>
+               <note place="margin">
+                  <hi>Pag.</hi> 27.</note> upon this ground that there can be no puniſhment without a Fault, I wiſh you had con<g ref="char:EOLhyphen"/>ſider'd it better. For allowing your Propoſition <hi>in Se,</hi> that <hi>Puniſhment</hi> ſuppoſes a <hi>fault,</hi> it follows not that the contagion of the Parents <hi>Perſonal</hi> Faults are deriv'd unto their children, ſeeing they have Sin enough of their own for which at any time they are reſponſible to the Soveraign Juſtice of God. And when that Juſtice is pleas'd to viſit <hi>the iniquity of the Fa<g ref="char:EOLhyphen"/>thers upon the children,</hi> 'tis indeed the wicked <hi>Fathers</hi> de<g ref="char:EOLhyphen"/>ſerved
+<pb facs="tcp:102087:7"/>puniſhment, but not their Poſterities (<hi>eatenus,</hi> and upon that account) ſave only when they tread in the ſame forbidden Paths Themſelves, and then every one will pro<g ref="char:EOLhyphen"/>nounce them inexcuſable.</p>
+            <p>After <hi>Leo</hi> comes <hi>Gregorie</hi> the <hi>Great,</hi> who indeed ſeems at firſt view to favour you more then any of the Reſt,<note place="margin">
+                  <hi>Pag.</hi> 25.</note> eſpe<g ref="char:EOLhyphen"/>cially in that one clauſe, <hi>dum pro culpa parentis Ex originali Peccato anima polluitur Prolis,</hi> i. e. for the fault of the Pa<g ref="char:EOLhyphen"/>rent the Soul of his Child is polluted by Original Sin. But 1. here is no mention of any Original Sin but one, no <hi>Se<g ref="char:EOLhyphen"/>condary</hi> Originals.</p>
+            <p n="2">2. He ſaies not, the ſoul of the child is polluted by any <hi>perſonal actual</hi> in of the Parent, but <hi>ex Originali peccato,</hi> from Original Sin, from that one (in the ſingular number) we All derive from Adam: I can make no more of it, and that's nothing to your purpoſe; for <hi>ex culpâ Parentis</hi> is there in<g ref="char:EOLhyphen"/>terpreted to be Original Sin, of which every Father as well as Adam is guilty, and ſo derives His own Original Sin as well as Adams to his Children; Here is nothing of any <hi>per<g ref="char:EOLhyphen"/>ſonal actual</hi> Sin to be rationally inferr'd, as you would have it.</p>
+            <p>For S. <hi>Auſtin</hi> (whom you place after <hi>Gregory;</hi>
+               <note place="margin">
+                  <hi>Pag.</hi> 25.</note> though almoſt 200 years before Him) you told me in another place I knew not <hi>He was of your Judgment.</hi> No more I do to this day: He has nothing of your new Original Sin; of any more Originals <hi>in specie</hi> then one. Only He moves a quaeſtion, whether Children be not guilty of all their Pro<g ref="char:EOLhyphen"/>genitours both Actual and <hi>Individual</hi> Original Sins tranſmit<g ref="char:EOLhyphen"/>ted ſucceſſively from Adam: and in the upſhot: leaves it undetermin'd, with a <hi>non immeritò diſceptari poteſt,</hi> (it may juſtly be diſputed) <hi>&amp; temere affirmare non audeo</hi> (I dare not, ſaies He, affirm any thing) Call you this his <hi>Judgment</hi> for you, where He pronounces <hi>nothing,</hi> and tells you He <hi>dares not define?</hi> A praegnant evidence indeed, that ſpeakes not one poſitive ſyllable in your Cauſe! But this is to be in <hi>Haſt.</hi>
+            </p>
+            <p>
+               <pb facs="tcp:102087:7"/>
+You tell us <hi>you would trouble your ſelf and the Reader with more of the Ancients words, if you thought it worth the Coſt.</hi>
+               <note place="margin">
+                  <hi>Pag.</hi> 27.</note> But truly I think you have given ſufficient trouble to both already, and ought upon that account to pay both Coſts and Dammages to your Reader.</p>
+            <p>Now for your <hi>Gul. Pariſienſis,</hi>
+               <note place="margin">
+                  <hi>Pag.</hi> 27.</note> whom <hi>Trithemius</hi> I grant adorns with the Title of <hi>Eruditus in Scriptaris,</hi> a man well vers'd in the Scriptures (let every one believe of that as much aa He pleaſes) what ſhall we ſay to Him, who tells us in one chapter that Original Sin is a <hi>Peſt, &amp; Scaturigo viti<g ref="char:EOLhyphen"/>orum,</hi>
+               <note place="margin">De vit. &amp; Pecc. c. <hi>6.</hi>
+               </note> 
+               <hi>&amp; Seminarium,</hi> the ſource and ſeminary of all vices; and in the very next denyes it to be either <hi>culpa, or aliquid culpabile</hi> i. e. to be a fault, or to have any thing faulty in it? an abſurdity, which <hi>Bellarmine</hi> Himſelſe has ſufficiently refuted, <hi>De ſtatu Pecc. L.</hi> 4. <hi>c.</hi> 3. Tis plain however from the front of his 5. ch. <hi>ibid.</hi> that his concerne there is only in the <hi>Cauſe</hi> of Original Sin, and how it is <hi>tranſmitted,</hi> where He appeals to <hi>Galen</hi> and his Diſciples, and determines it to be conveigh'd by a <hi>Seminal</hi> infection, with which neither you nor I have any thing to do, as to our preſent particular con<g ref="char:EOLhyphen"/>teſt. For let it be conveigh'd this way or the tother, I am not now concern'd, tis ſtill <hi>Original</hi> Sin, and ſtill but <hi>one,</hi> and ſo this Quotation is of no waight at all. Let the ſoul of man if you pleaſe be <hi>ex traduce,</hi> by <hi>generation</hi> as well as his Body (for which you ſo earneſtly contend) it will never contribute any thing to your <hi>new</hi> Original Sin, ex<g ref="char:EOLhyphen"/>cept you can ſhow us ſome either <hi>habitual</hi> or <hi>Actual</hi> Vices, which are not <hi>rooted</hi> in the OLD; and when you have done that, we will add it to the wonders of the world. Your own <hi>Pariſi<g ref="char:EOLhyphen"/>enſis</hi> with his <hi>Scaturigo &amp; ſeminarium,</hi> will never allow of This.</p>
+            <p>But now we come out of the thick darkneſs of <hi>Pa<g ref="char:EOLhyphen"/>riſienſis</hi> his Age into the light of the <hi>Reformed</hi> writers. Of whom good <hi>P. Martyr</hi> makes the Foreman of the Jury. And what ſaies that worthy Perſon? why,<note place="margin">
+                  <hi>Pag.</hi> 28.</note> the utmoſt I can find is this, that Sin pollutes both Soul and Body, and that ſome infection of the Soul may be deriv'd from the <hi>ſeminal</hi> conta<g ref="char:EOLhyphen"/>gion
+<pb facs="tcp:102087:8"/>of the Body; whereupon He adviſes the Parents to a Holy life, <hi>ne &amp; animos ſuos &amp; corpora polluant &amp;c.</hi> leſt they pollute both their Souls and Bodies, and conſequently in<g ref="char:EOLhyphen"/>fect both in their children; which at the higheſt He never underſtood but of bad ſeminal <hi>Dispoſitions</hi> which every one knows can <hi>neceſſarily</hi> effect nothing, and ſo He tells you a little after, <hi>notandum hee eſſe contingens, non neceſſarium.</hi> But good S<hi rend="sup">r</hi> you might have minded that in your very Quo<g ref="char:EOLhyphen"/>tation, He denyes all Sins of neerer Progenitors to be of the ſame <hi>kind</hi> and nature with <hi>Original</hi> Sin, and proves it too, and conſequently is point blanke againſt you;<note place="margin">
+                  <hi>Pag.</hi> 29, 30.</note> which if you heeded no better, lookes like an <hi>Overſight,</hi> and if you knew it, you deale not fairly with your Engliſh Reader, by hiding it from Him.</p>
+            <p>You injure <hi>Walaus</hi> (and ſo abuſe your Reader) when you make Him reprove <hi>Corvinus,</hi>
+               <note place="margin">
+                  <hi>Pag.</hi> 31.</note> without taking notice of any of his <hi>explanations,</hi> for aſſerting with the <hi>Pelagians</hi> that the Im<g ref="char:EOLhyphen"/>putation of Adams Sin and that of our neerer Progenitors is <hi>alîus planè rationis,</hi> of no kindred or likeneſs at all. Whence you would inferr the parity or reſemblance (at leaſt) of your new Original Sin with the <hi>Old</hi> one, as if the difference were little or none. But pray Sr tell me, did you tranſſcribe from others, or read it your ſelf in <hi>Walaus,</hi> what you quote out of his 9. chapt. p. 263, 264? Did you read both thoſe Pages (not to mention the 268<hi rend="sup">th</hi>)? If you did not, we have no cauſe to commend your <hi>diligence;</hi> if you did, we wiſh bet<g ref="char:EOLhyphen"/>ter proofes of your <hi>ſyncerity.</hi> For there He interprets his meaning (of no alliance with yours) in as plain words as a Schollar would deſire. <hi>Corvinus</hi> denyes the Imputation of Adams Sin to be <hi>true and Real</hi> and aſſerts it to be only <hi>di<g ref="char:EOLhyphen"/>spenſative</hi> (as He tells you there) to <hi>make way for the Cove<g ref="char:EOLhyphen"/>nant of Grace,</hi>
+               <note place="margin">Wal. p. <hi>264.</hi>
+               </note> as if God were not <hi>angry in earneſt</hi> with man<g ref="char:EOLhyphen"/>kind for that Original Sin &amp;c. but grants the Imputation of neerer Progenitors Sins to be indeed <hi>true</hi> and <hi>proper. Waleus</hi> blames Him juſtly for the former, in making no Body knows what of the Imputation of Adams Sin (which is no part of
+<pb facs="tcp:102087:8"/>our preſent controverſie) ſo that in effect He ſpeaks in all your Quotation no more then This, that the Sin of Adam was <hi>really</hi> and <hi>properly</hi> imputed to his Poſterity, not only by <hi>Corvinus</hi> his <hi>imaginary Diſpenſation.</hi> Whereas you no doubt would have your Reader believe, that <hi>Walaus</hi> holds the Im<g ref="char:EOLhyphen"/>putation of Adams Sin and our neerer Parents to be in the main <hi>ejuſdem rationis,</hi> of the ſame kind and Genius, which as to the <hi>Reality</hi> of Imputation we grant they are, but not as to any thing elſe you aim at: ſo that I ſuppoſe you have enough of your <hi>Walaeus.</hi>
+            </p>
+            <p>Neither does <hi>
+                  <g ref="char:V">Ʋ</g>rſin</hi> ſpeak a word for you, but in the cloſe of that Quotation,<note place="margin">
+                  <hi>Pag.</hi> 31.</note> 
+               <hi>againſt</hi> you (ſo farr as I have any thing to do with you) He tells us indeed that <hi>non foret abſurdum</hi> &amp;c. There would be <hi>no abſurdity,</hi> if God for the multiplyed Sins of Progenitors ſhould make the burden of Them heavier upon their children, and thats All; and who ever quaeſtiond this? no more is to be fiſh'd out of Mr <hi>Gatakers</hi> words, no<g ref="char:EOLhyphen"/>thing to a new <hi>Original Sin.</hi>
+            </p>
+            <p>Nay me thinks you have ſomthing like a forc'd offer to a <hi>Recantation,</hi> p. 33. where telling us of your <hi>aboundance of Proteſtant Writers</hi> on your ſide, and generally all the <hi>Expo<g ref="char:EOLhyphen"/>ſitors on the ſecond Commandment,</hi> all I can find you would make of them is (in your own words) <hi>that Temporal Judg<g ref="char:EOLhyphen"/>ments and ſome ſpiritual are oft inflicted by God on children for their Fathers Sins.</hi> And have you not now brought all to a doughty concluſion, in which you have none to oppoſe you? may not you ſit down and <hi>plume</hi> your ſelfe over your incomparable performance, and the <hi>rout</hi> you have given me?</p>
+            <p>But however all this ſhall not hinder me from an Act of Charity to you. For ſeeing you ſeem not at all to under<g ref="char:EOLhyphen"/>ſtand your own Quaeſtion, nor to know well how to ſet a<g ref="char:EOLhyphen"/>bout your worke, give me leave (though unworthy) to hint you a few <hi>directions</hi> how to manage this unwieldy buſineſs you have undertaken. You may uſe or reject them as you pleaſe, tis at worſt but a little good Counſel loſt.</p>
+            <p>
+               <pb facs="tcp:102087:9"/>
+Sr, if you are for a <hi>new Secondary</hi> Original Sin, I conceive (with your pardon) you have theſe three great works to doe.</p>
+            <p n="1">1. To prove (what you have aſſerted) that this Novel Original Sin is not deriv'd from our Original Father, no line of Communication between them; a Sin <hi>beſides that which is deriv'd from Adam,</hi> as you <hi>plainly</hi> and <hi>poſitively</hi> affirme. For if indeed it derive in a direct Line from the <hi>firſt</hi> Tranſ<g ref="char:EOLhyphen"/>greſſion, and have its whole Root faſtned there, to talke of a <hi>new Secondary</hi> Original Sin, is not in my Judgment the beſt ſenſe that may be ſpoken.</p>
+            <p n="2">2. To make good againſt <hi>Auſtin</hi> (<note n="*" place="margin">
+                  <hi>Pag.</hi> 25.</note> in your own Quotati<g ref="char:EOLhyphen"/>on) that your new Original does <hi>mutare naturam,</hi> change the Nature of Man, as the <hi>Old</hi> one does to our Coſt and ſorrow.</p>
+            <p n="3">3. You have alſo to prove againſt <hi>Peter Martyr</hi> (and in the words you have<note n="*" place="margin">
+                  <hi>Pag.</hi> 30.</note> cited too) that the derivation of Pro<g ref="char:EOLhyphen"/>genitors Sins (be what they will) to their children is conſtant and <hi>neceſſary,</hi> not <hi>uncertain,</hi> or <hi>Contingent.</hi> When you have prov'd the <hi>firſt,</hi> and <hi>baffled</hi> your <hi>own witneſſes</hi> in the other two, I care not if I promiſe you to be your Proſelyte: but till then I much feare that all you can ſay will be but <hi>Trifling</hi> and <hi>Impertinence.</hi>
+            </p>
+            <p>
+               <hi>The words that ſhould have followed are</hi> theſe, p. 20. I have now done with that part of your Preface, &amp;c.</p>
+            <pb facs="tcp:102087:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
